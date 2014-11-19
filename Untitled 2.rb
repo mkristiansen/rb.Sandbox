@@ -1,0 +1,1 @@
+puts "Yoda is a".methods.sort
